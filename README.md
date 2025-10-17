@@ -20,6 +20,7 @@ Together we covered how to:
 
 ## 🧱 Repository Structure
 
+```
 aparavi-data-toolchain-workshop/
 ├── README.md
 ├── SUMMARY.md
@@ -36,6 +37,7 @@ aparavi-data-toolchain-workshop/
 ├── replication_guide.md
 ├── getting_started.md
 └── NEXT_STEPS.md
+```
 
 ---
 
