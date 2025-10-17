@@ -9,7 +9,7 @@ This guide walks you through recreating the Aparavi AI Chatbot Pipeline from the
 Before you start, make sure you have the following:
 
 ### 1. Aparavi Environment
-* Access to the Aparavi Data Toolchain.
+* Access to the Aparavi Data Toolchain: https://dtc.aparavi.com/usage
 * Admin or editor permissions to import pipelines.
 
 ### 2. Enterprise Data (Optional)
@@ -18,9 +18,11 @@ Before you start, make sure you have the following:
 
 ### 3. Weaviate Instance
 * Cloud or local instance to store vector embeddings.
+* Weaviate Cloud Portal: https://weaviate.io/
 
 ### 4. Google Gemini Access
 * API keys or credentials to connect your chatbot to Gemini.
+* Gemini API Portal: https://aistudio.google.com/
 
 ### 5. Optional Tools
 * Spreadsheet software (Excel, Google Sheets) for analyzing outputs.
