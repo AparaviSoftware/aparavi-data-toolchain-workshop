@@ -1,0 +1,31 @@
+employee_id,full_name,position,department,base_salary,bonus_2024,equity_shares,total_compensation_2024,salary_grade,last_raise_date,last_raise_percentage,bank_account,routing_number
+NT001,Sarah Chen,Chief Executive Officer,Executive,320000,80000,50000,400000,E1,2024-01-15,5.0,****5678,121000248
+NT002,Michael Rodriguez,Chief Technology Officer,Engineering,280000,70000,35000,350000,E2,2024-01-15,5.0,****8234,121000248
+NT003,Jennifer Williams,Chief Financial Officer,Finance,270000,67500,30000,337500,E2,2024-03-10,4.5,****9876,121000248
+NT004,David Park,VP of Engineering,Engineering,220000,44000,20000,264000,M1,2024-06-15,6.0,****3421,121000248
+NT005,Emily Thompson,Head of Research & Development,R&D,210000,42000,18000,252000,M1,2024-01-20,5.5,****7654,121000248
+NT006,Marcus Johnson,Director of Product,Product,205000,41000,15000,246000,M2,2024-09-01,4.0,****2109,121000248
+NT007,Rachel Kim,VP of Sales,Sales,200000,60000,15000,260000,M1,2024-05-15,5.0,****5432,121000248
+NT008,Amanda Martinez,HR Director,Human Resources,185000,37000,12000,222000,M2,2024-07-01,4.5,****8765,121000248
+NT009,James Anderson,Senior Software Engineer,Engineering,165000,16500,5000,181500,IC4,2024-08-10,7.0,****1234,121000248
+NT010,Lisa Nguyen,Senior Software Engineer,Engineering,160000,16000,4500,176500,IC4,2024-01-15,6.5,****4567,121000248
+NT011,Robert Taylor,Software Engineer,Engineering,145000,14500,3000,159500,IC3,2024-06-01,5.5,****7890,121000248
+NT012,Priya Patel,Software Engineer,Engineering,140000,14000,3000,154000,IC3,2024-03-15,8.0,****2345,121000248
+NT013,Kevin Lee,DevOps Engineer,Engineering,155000,15500,4000,170500,IC3,2024-09-20,6.0,****6789,121000248
+NT014,Sofia Garcia,Junior Software Engineer,Engineering,115000,5750,2000,120750,IC2,2024-01-10,4.0,****3456,121000248
+NT015,Daniel Brown,Senior Research Scientist,R&D,175000,17500,6000,192500,IC4,2024-10-01,5.5,****8901,121000248
+NT016,Alexandra White,Research Scientist,R&D,150000,15000,4000,165000,IC3,2024-04-12,6.0,****2345,121000248
+NT017,Christopher Davis,ML Engineer,R&D,158000,15800,4500,174300,IC3,2024-07-01,7.5,****6789,121000248
+NT018,Jessica Wilson,Senior Product Manager,Product,170000,25500,5000,195500,IC4,2024-11-01,5.0,****9012,121000248
+NT019,Brian Moore,Product Manager,Product,145000,21750,3500,166750,IC3,2024-02-15,6.5,****3456,121000248
+NT020,Michelle Chang,UX Designer,Product,135000,13500,3000,148500,IC3,2024-09-01,5.5,****7890,121000248
+NT021,Thomas Harris,UI Designer,Product,120000,12000,2000,132000,IC2,2024-05-15,4.5,****1234,121000248
+NT022,Nicole Jackson,Senior Sales Engineer,Sales,155000,46500,4000,201500,IC4,2024-12-01,6.0,****5678,121000248
+NT023,Andrew Martinez,Sales Engineer,Sales,135000,40500,3000,175500,IC3,2024-08-15,7.0,****8901,121000248
+NT024,Samantha Robinson,Account Executive,Sales,130000,52000,2500,182500,IC3,2024-04-01,5.5,****2345,121000248
+NT025,Ryan Lewis,Account Executive,Sales,125000,50000,2000,175000,IC2,2024-02-01,8.0,****6789,121000248
+NT026,Laura Hill,Marketing Manager,Marketing,140000,21000,3500,161500,IC3,2024-11-15,5.0,****9012,121000248
+NT027,Eric Young,Content Marketing Specialist,Marketing,95000,9500,1500,104500,IC2,2024-03-20,4.0,****3456,121000248
+NT028,Olivia King,HR Coordinator,Human Resources,85000,8500,1000,93500,IC2,2024-05-01,4.5,****7890,121000248
+NT029,Nathan Wright,Operations Manager,Operations,125000,12500,2500,137500,IC3,2024-01-10,5.5,****1234,121000248
+NT030,Victoria Scott,Executive Assistant,Executive,75000,7500,500,82500,IC1,2024-06-01,3.5,****5678,121000248

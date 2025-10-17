@@ -1,0 +1,133 @@
+{
+  "company_name": "NexTech Solutions",
+  "updated": "2025-01-15",
+  "organization": {
+    "ceo": {
+      "employee_id": "NT001",
+      "name": "Sarah Chen",
+      "title": "Chief Executive Officer",
+      "email": "sarah.chen@nextech.com",
+      "direct_reports": [
+        {
+          "employee_id": "NT002",
+          "name": "Michael Rodriguez",
+          "title": "Chief Technology Officer",
+          "email": "michael.rodriguez@nextech.com",
+          "department": "Engineering",
+          "direct_reports": [
+            {
+              "employee_id": "NT004",
+              "name": "David Park",
+              "title": "VP of Engineering",
+              "email": "david.park@nextech.com",
+              "team_size": 6,
+              "direct_reports": [
+                {"employee_id": "NT009", "name": "James Anderson", "title": "Senior Software Engineer"},
+                {"employee_id": "NT010", "name": "Lisa Nguyen", "title": "Senior Software Engineer"},
+                {"employee_id": "NT011", "name": "Robert Taylor", "title": "Software Engineer"},
+                {"employee_id": "NT012", "name": "Priya Patel", "title": "Software Engineer"},
+                {"employee_id": "NT013", "name": "Kevin Lee", "title": "DevOps Engineer"},
+                {"employee_id": "NT014", "name": "Sofia Garcia", "title": "Junior Software Engineer"}
+              ]
+            },
+            {
+              "employee_id": "NT005",
+              "name": "Emily Thompson",
+              "title": "Head of Research & Development",
+              "email": "emily.thompson@nextech.com",
+              "team_size": 3,
+              "direct_reports": [
+                {"employee_id": "NT015", "name": "Daniel Brown", "title": "Senior Research Scientist"},
+                {"employee_id": "NT016", "name": "Alexandra White", "title": "Research Scientist"},
+                {"employee_id": "NT017", "name": "Christopher Davis", "title": "ML Engineer"}
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "NT003",
+          "name": "Jennifer Williams",
+          "title": "Chief Financial Officer",
+          "email": "jennifer.williams@nextech.com",
+          "department": "Finance",
+          "direct_reports": [
+            {
+              "employee_id": "NT029",
+              "name": "Nathan Wright",
+              "title": "Operations Manager",
+              "email": "nathan.wright@nextech.com",
+              "team_size": 0
+            }
+          ]
+        },
+        {
+          "employee_id": "NT006",
+          "name": "Marcus Johnson",
+          "title": "Director of Product",
+          "email": "marcus.johnson@nextech.com",
+          "department": "Product",
+          "team_size": 4,
+          "direct_reports": [
+            {"employee_id": "NT018", "name": "Jessica Wilson", "title": "Senior Product Manager"},
+            {"employee_id": "NT019", "name": "Brian Moore", "title": "Product Manager"},
+            {"employee_id": "NT020", "name": "Michelle Chang", "title": "UX Designer"},
+            {"employee_id": "NT021", "name": "Thomas Harris", "title": "UI Designer"}
+          ]
+        },
+        {
+          "employee_id": "NT007",
+          "name": "Rachel Kim",
+          "title": "VP of Sales",
+          "email": "rachel.kim@nextech.com",
+          "department": "Sales",
+          "team_size": 5,
+          "direct_reports": [
+            {"employee_id": "NT022", "name": "Nicole Jackson", "title": "Senior Sales Engineer"},
+            {"employee_id": "NT023", "name": "Andrew Martinez", "title": "Sales Engineer"},
+            {"employee_id": "NT024", "name": "Samantha Robinson", "title": "Account Executive"},
+            {"employee_id": "NT025", "name": "Ryan Lewis", "title": "Account Executive"},
+            {
+              "employee_id": "NT026",
+              "name": "Laura Hill",
+              "title": "Marketing Manager",
+              "email": "laura.hill@nextech.com",
+              "direct_reports": [
+                {"employee_id": "NT027", "name": "Eric Young", "title": "Content Marketing Specialist"}
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "NT008",
+          "name": "Amanda Martinez",
+          "title": "HR Director",
+          "email": "amanda.martinez@nextech.com",
+          "department": "Human Resources",
+          "team_size": 1,
+          "direct_reports": [
+            {"employee_id": "NT028", "name": "Olivia King", "title": "HR Coordinator"}
+          ]
+        },
+        {
+          "employee_id": "NT030",
+          "name": "Victoria Scott",
+          "title": "Executive Assistant",
+          "email": "victoria.scott@nextech.com",
+          "department": "Executive",
+          "team_size": 0
+        }
+      ]
+    }
+  },
+  "department_summary": {
+    "Engineering": {"headcount": 7, "manager": "David Park (NT004)"},
+    "R&D": {"headcount": 4, "manager": "Emily Thompson (NT005)"},
+    "Product": {"headcount": 5, "manager": "Marcus Johnson (NT006)"},
+    "Sales": {"headcount": 5, "manager": "Rachel Kim (NT007)"},
+    "Marketing": {"headcount": 2, "manager": "Laura Hill (NT026)"},
+    "Human Resources": {"headcount": 2, "manager": "Amanda Martinez (NT008)"},
+    "Finance": {"headcount": 1, "manager": "Jennifer Williams (NT003)"},
+    "Operations": {"headcount": 1, "manager": "Nathan Wright (NT029)"},
+    "Executive": {"headcount": 4, "manager": "Sarah Chen (NT001)"}
+  }
+}
